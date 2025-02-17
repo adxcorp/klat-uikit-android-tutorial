@@ -45,7 +45,8 @@ dependencies {
 ```
 
 ### - 모듈 추가
-1. 해당 레포지토리를 clone 및 zip파일로 다운받은 후 원하는 경로에 저장합니다.
+1. https://github.com/adxcorp/klat-uikit-android 다음 레포지토리 clone, 및 다운로드 해주세요.
+1. clone 및 다운하신 zip파일로 원하는 경로에 저장합니다.
 2. 프로젝트 단 build.gradle 파일에 해당 다운받은 레포지토리의 경로를 설정해줍니다.
 ```kotlin
 ex)
