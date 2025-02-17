@@ -26,5 +26,5 @@ dependencyResolutionManagement {
 rootProject.name = "klat-uikit-android-tutorial"
 include(":app")
 
-include(":klat")
-project(":klat").projectDir = file("/Users/neptune/AndroidStudioProjects/klat-uikit-android/app")
+//include(":klat")
+//project(":klat").projectDir = file("/Users/neptune/AndroidStudioProjects/klat-uikit-android/app")

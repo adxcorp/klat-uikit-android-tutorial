@@ -17,8 +17,8 @@ class MainActivity : AppCompatActivity() {
                 activity = this,
                 oneToOneChannelId = null,
                 loginRequest = LoginRequest(
-                    userId = binding.tvUserId.text.toString(),
-                    userNickname = binding.tvUserId.text.toString()
+                    userId = binding.etUserId.text.toString(),
+                    userNickname = binding.etUserNickname.text.toString()
                 )
             )
         }
