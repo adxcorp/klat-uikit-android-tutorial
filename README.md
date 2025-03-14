@@ -40,7 +40,7 @@ dependencyResolutionManagement {
 2. 모듈 단 build.gradle 파일에 dependencies 섹션에서 아래의 Dependency를 추가합니다.
 ```kotlin
 dependencies {
-    implementation("com.github.adxcorp:klat-uikit-android:1.0.0")
+    implementation("com.github.adxcorp:klat-uikit-android:1.0.2")
 }
 ```
 
