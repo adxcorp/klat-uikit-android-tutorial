@@ -46,5 +46,5 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 
 //    implementation(project(":klat"))
-    implementation("com.github.adxcorp:klat-uikit-android:1.0.0")
+    implementation("com.github.adxcorp:klat-uikit-android:1.0.2")
 }
