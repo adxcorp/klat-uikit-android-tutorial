@@ -17,7 +17,7 @@ Klat UIKit SDK는 Kotlin 언어로 작성되었으며, 채팅 기능을 Android 
 - AGP 7.1.3
 - Kotlin 1.7.0
 - minSdk 21
-- Klat Android SDK 1.0.2
+  Klat Android SDK 1.0.2
 
 <br />
 
@@ -40,7 +40,7 @@ dependencyResolutionManagement {
 2. 모듈 단 build.gradle 파일에 dependencies 섹션에서 아래의 Dependency를 추가합니다.
 ```kotlin
 dependencies {
-    implementation("com.github.adxcorp:klat-uikit-android:1.0.2")
+    implementation("com.github.adxcorp:klat-uikit-android:1.0.0")
 }
 ```
 
